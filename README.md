@@ -6,7 +6,7 @@
 - ⚒ I often work on several projects at the same time and take an unorthodox approach to most things , experimenting and learning as i proceed.
 - 🌎 My Motto is : " Omnia Connexia"
 - 📡 My company is registered in the United Kingdom of Great Britain and Northern Ireland as : Psico Communications and Blockchain Development .
-- ` :u+1F7E9: `
+- ` :u+1F34B: `
 
 <!---
 Mulc1b3R/Mulc1b3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
